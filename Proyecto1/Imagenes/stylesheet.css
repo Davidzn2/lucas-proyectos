@@ -1,0 +1,81 @@
+
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aquamarine;
+    font-size: auto;
+    background-color: black;
+    text-align: center;
+    margin:blue
+}
+main{
+    font-family: fantasy;
+    color: blue;
+    font-style:italic
+    
+    
+}
+img{
+    width: 8cm;
+    height: 8cm;
+}
+nav.menu{
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    border: black 5px solid ;
+}
+.Fondo{
+    background-image: url(Fondop.jpg);
+    background-size: cover;
+    text-align: center;
+    margin:black;
+    border: black 5px solid ;
+
+    
+}
+footer{
+    font-size: larger;
+    font-family: monospace;
+    font-style: unset;
+    border: black 5px solid;
+}
+.element{
+    border: black 5px solid;
+    width: 100%;
+    height: 100%;
+    
+
+}
+.Emperador{
+    border: black 3px solid;
+    margin: 30px;
+    
+}
+.Real{
+    border: black 5px solid;
+    margin: 30px;
+}
+
+.Fjordland{
+    border: black 5px solid;
+    margin: 30px;
+}
+
+#Push{
+    border: black 5px solid;
+    background-color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.elementtree{
+    margin-top: 10cm;
+    margin-bottom: 10cm;
+    padding-top: 10cm;
+    padding-bottom: 10cm;
+    border: 10cm black solid;
+    size: 1200px;
+}

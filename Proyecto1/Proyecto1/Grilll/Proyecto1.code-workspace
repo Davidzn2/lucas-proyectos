@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Proyecto2"
+		},
+		{
+			"path": "../../.vscode"
+		},
+		{
+			"path": "../../Imagenes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto1"
+	}
+}

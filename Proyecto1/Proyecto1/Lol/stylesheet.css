@@ -1,0 +1,12 @@
+.Flex-container{
+    border: orange;
+    flex-direction: column;
+    display: flex;
+    
+    
+}
+.Flex-child{
+    border: red 5px solid;
+    width: 1200px;
+    height: 1200px;
+}
